@@ -1,7 +1,7 @@
 # Personal-Finance-Analysis
 **Problem statement:** Many individuals struggle with understanding and managing their personal finances due to a lack of financial literacy and effective tools. Without proper analysis, they may fail to identify patterns in their spending and saving behaviors, which could help them make more informed financial decisions. As a result they unable to evaluate whether they are meeting their financial goals. 
 
-**Objectives: **
+**Objectives:**
 1. to calculate and monitor their net worth to understand their financial position
 2. to understand where and how their money is being spent or saved, helping to make more informed decisions
 3. to analyze their spending patterns
